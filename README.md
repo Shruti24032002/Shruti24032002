@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-MY NAME IS SHRUTI RANI AND I AM FRONTEND DEVELOPER
+MY NAME IS SHRUTI RANI AND I AM FRONTEND DEVELOPER WITH AN EXCELLENT KNOWLEDGE OF HTML,CSS,JAVASCRIPT.
+
 
 <!--
 **Shruti24032002/Shruti24032002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
